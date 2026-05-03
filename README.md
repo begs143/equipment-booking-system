@@ -14,4 +14,4 @@ A specialized reservation platform for IT assets. This system allows users to vi
 * **Logic:** Custom validation rules for date/time overlap prevention.
 
 # 📸 System Preview
-![Landing Page](public/screenshots/Landing page.png)
+![Landing Page](public/screenshots/Landing Page.png)
